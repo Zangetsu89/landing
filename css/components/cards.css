@@ -1,0 +1,39 @@
+.shooting {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ flex-wrap: wrap;
+ margin-bottom: 30px;
+}
+
+.cards h2 {
+ color: teal;
+ margin: 30px;
+}
+
+.shootinglink1 {
+ width: 350px;
+ border-radius: 3px;
+ box-shadow: 0 0 5px rgb(230,230,230);
+ text-align: center;
+ padding: 20px;
+ border: 1px solid rgb(230,230,230);
+}
+
+.shootinglink2 {
+ width: 350px;
+ border-radius: 3px;
+ box-shadow: 0 0 5px rgb(230,230,230);
+ text-align: center;
+ padding: 20px;
+ border: 1px solid rgb(230,230,230);
+}
+
+.shootinglink3 {
+ width: 350px;
+ border-radius: 3px;
+ box-shadow: 0 0 5px rgb(230,230,230);
+ text-align: center;
+ padding: 20px;
+ border: 1px solid rgb(230,230,230);
+}
